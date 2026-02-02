@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello there, I'm Samuel Kampshoff 👋
+I am a Computer Science student with hands-on experience in full-stack development, database systems, and various machine learning and reinforcement learning algorithms. Proficient in C#/ASP.NET, SQL Server, C++, Python, and JavaScript, with a proven ability to learn quickly and contribute to team-based software projects.
 
+## Projects with Personal Contributions
+Below are some projects I served as a primary contributor on:
 <!--
 **skkampshoff/skkampshoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
